@@ -5,7 +5,7 @@ public class RepositorioFuncionario {
     
     private int indice;
     private Funcionario[] funcionario;
-    private int tamanho = 1; 
+    private int tamanho = 0; 
 	public RepositorioFuncionario(int tamanho){ 
 		this.tamanho = tamanho; 
 		this.indice = 1; 
