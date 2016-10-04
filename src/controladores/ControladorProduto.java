@@ -21,6 +21,16 @@ public class ControladorProduto {
 	return produto;
 				}
 			}	
+	public void alterar(Produto produto) {
+		this.alterar(produto);
+		
+	}
+
+	public void remover(String idproduto) {
+		this.remover(idproduto);
+		
+	}
+
 }                         
 
     

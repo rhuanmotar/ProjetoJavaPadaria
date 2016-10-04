@@ -26,4 +26,6 @@ public interface IFachada {
     
     void remover(int idproduto);
     
+    void mostrarLucro(double receita);
+    
 }
