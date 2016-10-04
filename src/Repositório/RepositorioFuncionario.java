@@ -1,4 +1,6 @@
-package teste;
+package Repositório;
+
+import Beans.Funcionario;
 
 public class RepositorioFuncionario {
     

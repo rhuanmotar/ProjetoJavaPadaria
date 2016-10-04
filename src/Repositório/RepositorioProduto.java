@@ -1,4 +1,6 @@
-package teste;
+package Repositório;
+
+import Beans.Produto;
 
 public class RepositorioProduto {
     

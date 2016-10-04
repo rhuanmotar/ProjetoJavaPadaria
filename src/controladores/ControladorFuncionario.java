@@ -1,7 +1,7 @@
 package controladores;
 
-import teste.Funcionario;
-import teste.RepositorioFuncionario;
+import Beans.Funcionario;
+import Repositório.RepositorioFuncionario;
 
 public class ControladorFuncionario {
 

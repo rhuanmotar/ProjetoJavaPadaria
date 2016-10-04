@@ -1,8 +1,8 @@
 package controladores;
 
-import teste.Produto;
-import teste.RepositorioFuncionario;
-import teste.RepositorioProduto;
+import Beans.Produto;
+import Repositório.RepositorioFuncionario;
+import Repositório.RepositorioProduto;
 
 public class ControladorProduto {
     

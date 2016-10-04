@@ -8,8 +8,8 @@ package GUI;
 import controladores.ControladorFuncionario;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
-import teste.Funcionario;
-import teste.RepositorioFuncionario;
+import Beans.Funcionario;
+import Repositório.RepositorioFuncionario;
 
 /**
  *

@@ -1,5 +1,5 @@
      
-package teste;
+package Beans;
 
 public class Funcionario {
     
